@@ -1,10 +1,6 @@
-using System.Collections.Generic;
 using Application.Activities;
 using Domain;
-using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using Persistence;
 
 namespace api.Controllers
 {
